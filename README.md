@@ -5,7 +5,7 @@ This project is an arena-based TPS against a boss made on Unreal Engine 5. It ca
 Unreal Engine Version : 5.4.4\
 Visual Studio Version : 2022\
 Development Time : 4 weeks\
-Year of Development : 2024
+Year of Development : 2024\
 Build Link : https://drive.google.com/drive/folders/1oaj-2y_y9IyzAbFbgDppfcCJ1ePvCmby?usp=sharing
 
 ## Features:
